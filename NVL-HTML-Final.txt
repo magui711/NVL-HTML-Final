@@ -1,0 +1,8 @@
+﻿Hice esta práctica final, basándome en el ejercicio propuesto de un servicio de cuidado de perros. 
+Hay dos links porque una página es la principal, la que contiene todos los requerimientos, el apartado de "quiénes somos", precios, servicios, también añadí un apartado del equipo de trabajo, para que la gente pueda conocer con quién deja a sus perros y que vean que están en buenas manos porque es gente que es titulada en los servicios que ofrecemos en la página. 
+Para que no fuera tan plana, le puse un color de fondo a la página, además de añadirle unas fotografías también. 
+He querido añadir también cosas que he ido aprendido, como las tablas, que las he utilizado para los precios de los servicios, los enlaces que llevan tanto a otra página como a distintas partes de la misma página. También he hecho formularios. 
+También para darle un toque más personalizado he querido cambiar el estilo de las letras y utilizar otro que no sea el que viene por defecto y así de paso, aprendía a utilizar la etiqueta <font> 
+La segunda página es a la que accederían si quisieran contratar algún servicio, en esa segunda página hay otro formulario para que puedan rellenar y contrar el servicio deseado. 
+
+Lo que más me cuesta todavía son las tablas, y si supiera un poco más me hubiera gustado, jugar un poco con las fotografias y el texto, haciendo la página más visual y dinámica. 
