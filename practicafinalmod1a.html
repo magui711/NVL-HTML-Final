@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Nanny Dog</title>
+</head>
+<body style="background-color: #FFC200">
+<font color="#03549B" face="Courier">
+<h2>Contratar un servicio</h2></font>
+<img src="perro.jpg" alt="Perro feliz" width="50%" height="50%" align="rigth"> 
+
+<font face="Courier">
+<form method="post" action="miservidor.php">
+		<div>
+		<label for="nombre">Nombre:</label> </br>
+		<input id= "nombre" type="text">
+	</div> 
+	<div>
+		<label for="Apellido1">Primer apellido:</label></br>
+		<input id="Apellido1" type="text">
+	</div>
+	<div>
+		<label for="Apellido2">Segundo apellido:</label></br>
+		<input id="Apellido2" type="text">
+	</div>
+	<div></br>
+		<label for="email">Email:</label></br>
+		<input id="email" type="text"></br>
+	</div>
+    <div></br>
+		<label for= "telefono">Teléfono:</label></br>
+		<input id="telefono" type="text"></br>
+	</div>
+	<div>
+		<label for="numero de perros">Cuántos perros:</label></br>
+		<select id="perros">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="+4">+4</option>
+		</select>
+	</div>
+	<div>
+		<label for="servicio que desea contratar">Servicios que desea contratar</label></br>
+		<label><input name="servicios" type="checkbox" value="Guarderia completo">Guardería completo</label>
+		<label><input name="servicios" type="checkbox" value="Guarderia parcial">Guardería parcial</label>
+		<label><input name="servicios" type="checkbox" value= "Perruquería">Perruquería</label>
+		<label><input name="servicios" type="checkbox" value="Veterinario">Veterinario</label>
+		<label><input name="servicios" type="checkbox" value="Guarderia verano">Guardería de verano</label>
+		<label><input name="servicios" type="checkbox" value="Terapias">Terapias</label>
+		</div>
+	<input type="submit" name="Contratar" >
+
+<h2 style="color:#03549B">¡GRACIAS por confiar en nosotros!</h2>
+</font>
+</body>
+</html>
